@@ -11,6 +11,7 @@ public class MymongodbApplicationTests {
 
     @Test
     public void contextLoads() {
+        System.out.println("hi,github");
     }
 
 }
